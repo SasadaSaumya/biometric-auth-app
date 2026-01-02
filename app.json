@@ -12,8 +12,20 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      [
+        "expo-local-authentication",
+        {
+          "faceIDPermission": "Allow BiometricAuth to use Face ID."
+        }
+      ]
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.biometricauth",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "Allow BiometricAuth to use Face ID for secure login."
+      }
     },
     "android": {
       "adaptiveIcon": {
