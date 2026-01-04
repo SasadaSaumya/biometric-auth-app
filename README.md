@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 **Sasada Saumya**
 - GitHub: [@SasadaSaumya](https://github.com/SasadaSaumya)
-- LinkedIn: [Your-Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [SasandaSaumya](https://linkedin.com/in/sasanda-saumya/)
