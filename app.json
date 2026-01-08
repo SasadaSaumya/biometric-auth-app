@@ -22,9 +22,9 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.biometricauth",
+      "bundleIdentifier": "com.astrivix.biometricauth",
       "infoPlist": {
-        "NSFaceIDUsageDescription": "Allow BiometricAuth to use Face ID for secure login."
+        "NSFaceIDUsageDescription": "BiometricAuth needs Face ID to keep your secure data private."
       }
     },
     "android": {
