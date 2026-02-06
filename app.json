@@ -18,7 +18,8 @@
         {
           "faceIDPermission": "Allow BiometricAuth to use Face ID."
         }
-      ]
+      ],
+      "expo-secure-store"
     ],
     "ios": {
       "supportsTablet": true,
